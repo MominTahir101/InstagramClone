@@ -29,7 +29,7 @@ import static com.momin.instagramclone.Post.KEY_CREATED_KEY;
  * A simple {@link Fragment} subclass.
  */
 public class PostsFragment extends Fragment {
-
+    
     public static final String TAG = "PostsFragment";
     private RecyclerView rvPosts;
     protected PostsAdapter adapter;
